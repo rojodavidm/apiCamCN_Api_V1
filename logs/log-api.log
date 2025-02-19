@@ -1,0 +1,78 @@
+[2025-02-19T04:20:53.085Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:22:35.963Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:23:17.263Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:23:37.830Z] info Servidor Disponible../home/david/Descargas/apiCamCN-main/router
+[2025-02-19T04:23:50.046Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:24:45.927Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:27:04.163Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:28:04.304Z] info Servidor Disponible..10.98.30.126
+[2025-02-19T04:28:06.850Z] info Servidor Disponible..10.98.30.126
+[2025-02-19T04:28:07.982Z] info Servidor Disponible..10.98.30.126
+[2025-02-19T04:28:09.467Z] info Servidor Disponible..10.98.30.126
+[2025-02-19T04:28:15.822Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:28:15.824Z] info ¡Conexión exitosa!
+[2025-02-19T04:28:15.828Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T04:28:24.706Z] info Servidor Disponible..10.98.30.126
+[2025-02-19T04:28:25.667Z] info Servidor Disponible..10.98.30.126
+[2025-02-19T04:29:26.630Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:30:06.173Z] error Error al ejecutar la consulta: Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:31:31.250Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:32:06.709Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:32:28.866Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:35:42.653Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:36:05.034Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:36:22.672Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:37:20.468Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:38:22.637Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:39:06.377Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:41:57.264Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:42:23.777Z] info <PagoResponse xmlns="http://schemas.datacontract.org/2004/07/ServicioPago.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><IdTicket>329219805</IdTicket><IdTicketEncriptado>VY54Q9zSNL796sK2NeAysH2SyHApvDUqoOCezKotkiE%3d</IdTicketEncriptado><Mensaje>El proceso ha finalizado correctamente.</Mensaje></PagoResponse>
+[2025-02-19T04:42:34.456Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:45:07.505Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:48:28.695Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:51:45.871Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:52:09.515Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:56:23.356Z] info Server Iniciado
+[2025-02-19T04:57:41.717Z] info Server Iniciado
+[2025-02-19T04:57:56.619Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T04:57:56.620Z] info ¡Conexión exitosa!
+[2025-02-19T04:57:56.626Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T04:58:19.109Z] info Server Iniciado
+[2025-02-19T04:58:50.465Z] info Server Iniciado
+[2025-02-19T04:59:04.155Z] info Server Iniciado
+[2025-02-19T05:00:04.332Z] info Server Iniciado
+[2025-02-19T05:00:19.281Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:00:19.282Z] info ¡Conexión exitosa!
+[2025-02-19T05:00:19.287Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T05:00:33.228Z] info Server Iniciado
+[2025-02-19T05:00:48.168Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:00:48.170Z] info ¡Conexión exitosa!
+[2025-02-19T05:00:48.177Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T05:00:51.088Z] info Server Iniciado
+[2025-02-19T05:01:06.034Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:01:06.035Z] info ¡Conexión exitosa!
+[2025-02-19T05:01:06.041Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T05:01:57.697Z] info Server Iniciado
+[2025-02-19T05:02:12.641Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:02:12.641Z] info ¡Conexión exitosa!
+[2025-02-19T05:02:12.646Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T05:02:54.495Z] info <PagoResponse xmlns="http://schemas.datacontract.org/2004/07/ServicioPago.Models" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><IdTicket>329220138</IdTicket><IdTicketEncriptado>F6IUY3dsY%2bXDJEiHnVHo7Fqd3625%2bGDOZmtks%2bMErZY%3d</IdTicketEncriptado><Mensaje>El proceso ha finalizado correctamente.</Mensaje></PagoResponse>
+[2025-02-19T05:03:20.732Z] info Server Iniciado
+[2025-02-19T05:03:35.666Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:03:35.667Z] info ¡Conexión exitosa!
+[2025-02-19T05:03:35.670Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T05:03:43.466Z] info Server Iniciado
+[2025-02-19T05:03:47.076Z] info Ruta no ecnontrada../home/david/Descargas/apiCamCN-main/router
+[2025-02-19T05:03:58.425Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:03:58.427Z] info ¡Conexión exitosa!
+[2025-02-19T05:03:58.433Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T05:05:08.467Z] info Server Iniciado
+[2025-02-19T05:05:23.384Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:05:23.385Z] info ¡Conexión exitosa!
+[2025-02-19T05:05:23.391Z] error Error al ejecutar la consulta: No connection is specified for that request.
+[2025-02-19T05:05:24.969Z] info Ruta no ecnontrada. POST
+[2025-02-19T05:05:31.914Z] info Ruta no ecnontrada. GET
+[2025-02-19T05:06:08.248Z] info Server Iniciado
+[2025-02-19T05:06:23.194Z] error No se pudo conectar a la BBDD : Failed to connect to 10.98.30.126:1433 in 15000ms
+[2025-02-19T05:06:23.195Z] info ¡Conexión exitosa!
+[2025-02-19T05:06:23.200Z] error Error al ejecutar la consulta: No connection is specified for that request.
