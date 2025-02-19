@@ -1,4 +1,3 @@
-const express = require("express");
 const sql = require('mssql')
 require('dotenv').config();
 const looger = require('./../utils/looger.js');
@@ -10,9 +9,22 @@ var config = {
   database: process.env.BD_,
   options: {
     trustServerCertificate: true,
-    encrypt: false
+    encrypt: true
   }
 };
+
+export async function getconnection() {
+  try {
+    return await sql.connect(config);
+  } catch (error) {
+    looger.error(error);
+  }
+}
+
+export { sql };
+/*
+
+
 try {
   sql.connect(config, err => {
     if (err) {
@@ -34,3 +46,4 @@ try {
 } catch (error) {
   looger.error('ERROR',error);
 }
+  */
